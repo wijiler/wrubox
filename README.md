@@ -1,8 +1,7 @@
-# Gruvbox Flat
+# Wrubox Flat - an upgrade(atleast for me) to gruvbox-flat
 
 A dark beautiful Neovim theme written in Lua. [Coming soon] extra themes for Kitty and Alacritty
-- Inspired by [sainnhe's gruvbox-material](https://github.com/sainnhe/gruvbox-material) but written in lua
-- A fork of [onedark.nvim](https://github.com/monsonjeremy/onedark.nvim)
+- A fork of [gruvbox-flat](https://github.com/eddyekofo94/gruvbox-flat.nvim)
 
 <img width="1680" alt="rust code" src="./media/gruvbox-original.png">
 
@@ -48,13 +47,13 @@ Install the theme with your preferred package manager:
 [vim-plug](https://github.com/junegunn/vim-plug)
 
 ```vim
-Plug 'eddyekofo94/gruvbox-flat.nvim'
+Plug 'wijiler/wrubox'
 ```
 
 [packer](https://github.com/wbthomason/packer.nvim)
 
 ```lua
-use 'eddyekofo94/gruvbox-flat.nvim'
+use 'wijiler/wrubox'
 ```
 
 ## 🚀 Usage
