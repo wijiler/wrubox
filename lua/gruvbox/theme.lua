@@ -106,7 +106,7 @@ function M.setup(config)
     -- Macro         = { }, --    same as Define
     -- PreCondit     = { }, --  preprocessor #if, #else, #endif, etc.
 
-    Type = { fg = c.yellow }, -- (preferred) int, long, char, etc.
+    Type = { fg = c.aqua }, -- (preferred) int, long, char, etc.
     -- StorageClass  = { }, -- static, register, volatile, etc.
     -- Structure     = { }, --  struct, union, enum, etc.
     -- Typedef       = { }, --  A typedef
