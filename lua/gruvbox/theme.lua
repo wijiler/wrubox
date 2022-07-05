@@ -96,8 +96,8 @@ function M.setup(config)
     -- Conditional   = { }, --  if, then, else, endif, switch, etc.
     -- Repeat        = { }, --   for, do, while, etc.
     -- Label         = { }, --    case, default, etc.
-    Operator = { fg = c.red }, -- "sizeof", "+", "*", etc.
-    Keyword = { fg = c.aqua, style = config.keywordStyle }, --  any other keyword
+    Operator = { fg = c.orange }, -- "sizeof", "+", "*", etc.
+    Keyword = { fg = c.red, style = config.keywordStyle }, --  any other keyword
     -- Exception     = { }, --  try, catch, throw
 
     PreProc = { fg = c.aqua }, -- (preferred) generic Preprocessor
