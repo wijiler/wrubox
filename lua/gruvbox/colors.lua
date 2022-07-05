@@ -36,7 +36,7 @@ function M.setup(config)
     yellow2 = "#b47109",
     bg_yellow = "#a96b2c",
     green = "#a9b665",
-    red = "#ea6962",
+    red = "#b30909",
     red1 = "#c14a4a",
     black = "#1d2021",
     git = { delete = "#c14a4a", add = "#6f8352", change = "#b47109", bg_red = "#ae5858" },
